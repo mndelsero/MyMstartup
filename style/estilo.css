@@ -1,1 +1,61 @@
-/*# sourceMappingURL=estilo.css.map */
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  list-style-type: none;
+  font-family: "Josefin Sans", sans-serif;
+}
+
+h1 {
+  font-family: "Dancing Script", cursive;
+}
+
+h2 {
+  font-family: "Dancing Script", cursive;
+}
+
+h3 {
+  font-family: "Qwitcher Grypen", cursive;
+}
+
+h4 {
+  font-family: "Quicksand", sans-serif;
+}
+
+img {
+  width: 200px;
+}
+
+.index-header {
+  background-color: #31AC55;
+  margin: 1rem;
+  padding: 1rem;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.main-index {
+  background-color: #F26F22;
+  margin: 1rem;
+  border-radius: 10px;
+}
+
+.index-footer {
+  background-color: #2F9FD7;
+  border-radius: 10px;
+  margin: 1rem;
+}
+
+.index {
+  background-color: #603A34;
+}
+
+/*  font-family: 'Anton', sans-serif;
+font-family: 'Black Ops One', cursive;
+font-family: 'Dancing Script', cursive;
+font-family: 'Inter', sans-serif;
+font-family: 'Josefin Sans', sans-serif;
+font-family: 'Oswald', sans-serif;
+font-family: 'Quicksand', sans-serif;
+font-family: 'Qwitcher Grypen', cursive; *//*# sourceMappingURL=estilo.css.map */
